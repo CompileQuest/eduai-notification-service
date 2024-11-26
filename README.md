@@ -1,1 +1,1 @@
-# eduai-notification-service-
+# eduai-notification-service
