@@ -7,3 +7,5 @@ const coursesSchema = new mongoose.Schema({
 }, { _id: false });
 
 module.exports = coursesSchema;
+
+
